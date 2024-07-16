@@ -1,0 +1,4 @@
+-> npm i ai @ai-sdk/openai dotenv
+-> npm install @types/node tsx typescript
+-> npm tsx index.ts
+-> npm install -g pnpm
